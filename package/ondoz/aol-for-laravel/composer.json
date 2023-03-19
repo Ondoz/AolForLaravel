@@ -1,0 +1,19 @@
+{
+    "name": "ondoz/aol-for-laravel",
+    "description": "Aol For laravel - A Simple Package Laravel Accurate Intergarated API",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ondoz\\AolForLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gilang Wahyudi",
+            "email": "ondozwahyudi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
